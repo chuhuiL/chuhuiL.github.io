@@ -43,7 +43,8 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2023.5* Grace W Capen Award - Recipients must have completed a minimum of 45-50 hours of full-time work at UB with a quality point average of 3.9 or higher.
+- *2023.5* Grace W Capen Award
+  - Recipients must have completed a minimum of 45-50 hours of full-time work at UB with a quality point average of 3.9 or higher.
 
 
 
@@ -52,4 +53,4 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 💻 Internships
-- *2023.05 - 2023.08*, [Trust Fund Registry]([https://github.com/](https://www.linkedin.com/company/trustfundregistry%E2%84%A2/)https://www.linkedin.com/company/trustfundregistry%E2%84%A2/), New York.
+- *2023.05 - 2023.08*, [Trust Fund Registry](https://www.linkedin.com/company/trustfundregistry%E2%84%A2/), New York.
