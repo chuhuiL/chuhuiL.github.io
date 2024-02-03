@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Chuhui, a Computer Science student at the University at Buffalo, motivated to use my education for meaningful global impact. I've embarked on a research journey under Prof. Wenyao Xu's mentorship. This experience challenges me and aligns with my deep interest in using technology to tackle complex, real-world problems. I'm passionate about exploring the intersection of technology and practical applications, aiming to deliver innovative solutions to contemporary challenges. Through this website, I am excited to share my journey with you!
+Hi, I'm Chuhui, a Computer Science student at the University at Buffalo, motivated to use my education for meaningful global impact. I've embarked on a research journey under Prof. [Wenyao Xu](https://cse.buffalo.edu/~wenyaoxu/)'s mentorship. This experience challenges me and aligns with my deep interest in using technology to tackle complex, real-world problems. I'm passionate about exploring the intersection of technology and practical applications, aiming to deliver innovative solutions to contemporary challenges. Through this website, I am excited to share my journey with you!
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
