@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chuhui Liu"
-description              : "Hi, I'm Chuhui, a Computer Science student at the University at Buffalo, motivated to use my education for meaningful global impact.   I've embarked on a research journey under Prof. Wenyao Xu's mentorship.  This experience challenges me and aligns with my deep interest in using technology to tackle complex, real-world problems.   I'm passionate about exploring the intersection of technology and practical applications, aiming to deliver innovative solutions to contemporary challenges. "
+title                    : "Chuhui Liu(刘楚晖)"
+description              : ""
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
