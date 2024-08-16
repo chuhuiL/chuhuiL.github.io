@@ -16,11 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 😄 About me
 
 Chuhui (Leo) Liu is a senior at the University at Buffalo, SUNY, majoring in Computer Science with a passion for Mobile Health (mHealth). His research lies at the intersection of Sensing Systems, Medical Device Development, and AI, focusing on creating accessible, cost-effective health monitoring systems. Leo has contributed to projects such as hearing disorder screening through audio-pupil response analysis and real-time vascular health monitoring using NIR technology. He has published multiple papers in IEEE conferences and has been recognized with several academic awards. Leo also has experience in developing commercial products like DreamCollege.AI and StockGPT.
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 My paper has been accepted to the IEEE Conference on Body Sensor Networks (BSN) 2024! &nbsp;🎉🎉
+- *2024.06*: &nbsp;🚀 DreamCollege.AI is now live! Check out the platform [here](https://dreamcollege.ai/). &nbsp;🚀
 - *2024.02*: &nbsp;🎉🎉 My first personal website is online! &nbsp;🎉🎉
 
 # 📝 Publications 
