@@ -54,7 +54,7 @@ In addition to his research, Leo has developed commercial products, including Dr
 - *2021 - Present*: **Dean’s List**, University at Buffalo, Fall 2021 - Present
 
 # 📖 Education
-- **Bachelor of Science in Computer Science**, University at Buffalo, SUNY, Sep. 2021 - May 2025 (expected)
+- **Bachelor in Computer Science**, University at Buffalo, Sep. 2021 - May 2025
   - **Minor**: Statistics
   - **GPA**: 3.9/4.0
   - **Supervisor**: Prof. Wenyao Xu
