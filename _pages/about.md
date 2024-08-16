@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Chuhui (Leo) Liu, a Computer Science student at the University at Buffalo, motivated to use my education for meaningful global impact. I’ve embarked on a research journey under Prof. [Wenyao Xu](https://cse.buffalo.edu/~wenyaoxu/)'s mentorship. This experience aligns with my deep interest in using technology to tackle complex, real-world problems. I'm passionate about exploring the intersection of technology and practical applications, aiming to deliver innovative solutions to contemporary challenges. Through this website, I am excited to share my journey with you!
-
-My research interests include Mobile Health (mHealth), neural machine translation, and computer vision. I have published 3 research/poster papers (including 1 first-author paper) in the IEEE Conference on Body Sensor Networks (BSN), and my work focuses on developing cost-effective, accessible health monitoring systems.
+Chuhui (Leo) Liu is a senior at the University at Buffalo, SUNY, majoring in Computer Science with a passion for Mobile Health (mHealth). His research lies at the intersection of Sensing Systems, Medical Device Development, and AI, focusing on creating accessible, cost-effective health monitoring systems. Leo has contributed to projects such as hearing disorder screening through audio-pupil response analysis and real-time vascular health monitoring using NIR technology. He has published multiple papers in IEEE conferences and has been recognized with several academic awards. Leo also has experience in developing commercial products like DreamCollege.AI and StockGPT.
 
 
 # 🔥 News
@@ -36,8 +34,10 @@ My research interests include Mobile Health (mHealth), neural machine translatio
 - BFVM: An NIR Video-Based System for Estimating Blood Flow via Vascular Motions, [BSN 2023] - Tianyu Chen, **Chuhui Liu**, Nathan Wan, Alexander Gherardi, Jun Xia, Zhi-Qiang Zhang, Wenyao Xu.
 
 # 🎖 Honors and Awards
+- *2023.08*: **Honorable Mention** - **DFW IT Talent Champion Competition**
 - *2023.05*: Grace W. Capen Award, University at Buffalo
-  - Recipients must have completed a minimum of 45-50 hours of full-time work at UB with a quality point average of 3.9 or higher.
+  - Recipients must have completed a minimum of 45-50 hours of full-time work at UB and must maintain a high academic standing.
+- *2021 - Present*: **Dean’s List**, University at Buffalo, Fall 2021 - Present
 
 # 📖 Education
 - **Bachelor of Science in Computer Science**, University at Buffalo, SUNY, Sep. 2021 - May 2025 (expected)
