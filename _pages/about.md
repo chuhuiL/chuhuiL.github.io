@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 😄 About me
 
-Chuhui (Leo) Liu is a senior at the University at Buffalo, SUNY, majoring in Computer Science with a passion for Mobile Health (mHealth). His research lies at the intersection of Sensing Systems, Medical Device Development, and AI, focusing on creating accessible, cost-effective health monitoring systems. Leo has contributed to projects such as hearing disorder screening through audio-pupil response analysis and real-time vascular health monitoring using NIR technology. He has published multiple papers in IEEE conferences and has been recognized with several academic awards. Leo also has experience in developing commercial products like DreamCollege.AI and StockGPT.
+Chuhui (Leo) Liu is a senior at the University at Buffalo, SUNY, pursuing a Bachelor of Science in Computer Science with a focus on Mobile Health (mHealth) under the mentorship of Prof. Wenyao Xu. His research interests encompass the intersection of Sensing Systems, Medical Device Development, and Artificial Intelligence, aiming to create innovative, cost-effective health monitoring systems. Under Prof. Xu's guidance, Leo has worked on projects like developing advanced hearing disorder screening systems that analyze audio-pupil response data and designing real-time vascular health monitoring systems using near-infrared (NIR) technology. He has published multiple papers in prestigious IEEE conferences and has been recognized with several academic honors. In addition to his research, Leo has developed commercial products, including DreamCollege.AI and StockGPT, showcasing his ability to translate academic insights into practical applications. 
+
 
 
 # 🔥 News
@@ -37,8 +38,8 @@ Chuhui (Leo) Liu is a senior at the University at Buffalo, SUNY, majoring in Com
 - BFVM: An NIR Video-Based System for Estimating Blood Flow via Vascular Motions, [BSN 2023] - Tianyu Chen, **Chuhui Liu**, Nathan Wan, Alexander Gherardi, Jun Xia, Zhi-Qiang Zhang, Wenyao Xu.
 
 # 🎖 Honors and Awards
-- *2023.08*: **Honorable Mention** - **DFW IT Talent Champion Competition**
-- *2023.05*: Grace W. Capen Award, University at Buffalo
+- *2023.08*: **Honorable Mention** - DFW IT Talent Champion Competition
+- *2023.05*: **Grace W. Capen Award**, University at Buffalo
   - Recipients must have completed a minimum of 45-50 hours of full-time work at UB and must maintain a high academic standing.
 - *2021 - Present*: **Dean’s List**, University at Buffalo, Fall 2021 - Present
 
