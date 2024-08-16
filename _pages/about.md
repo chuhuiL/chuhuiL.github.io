@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 😄 About me
 
-Chuhui (Leo) Liu is a senior at the University at Buffalo, SUNY, pursuing a Bachelor of Science in Computer Science with a focus on **Mobile Health** (mHealth) under the mentorship of Prof. [Wenyao Xu](https://cse.buffalo.edu/~wenyaoxu/). Leo has worked on projects like developing advanced hearing disorder screening systems that analyze audio-pupil response data and designing real-time vascular health monitoring systems using near-infrared (NIR) technology. He has published multiple papers in prestigious IEEE conferences and has been recognized with several academic honors. 
+Chuhui (Leo) Liu is a senior at the University at Buffalo with a focus on **Mobile Health** (mHealth) under the mentorship of Prof. [Wenyao Xu](https://cse.buffalo.edu/~wenyaoxu/). Leo has worked on projects like developing advanced hearing disorder screening systems that analyze audio-pupil response data and designing real-time vascular health monitoring systems. He has published multiple papers and has been recognized with several academic honors. 
 
 In addition to his research, Leo has successfully developed and commercialized two innovative AI products: DreamCollege.AI and StockGPT. DreamCollege.AI leverages large language models to guide students through the college admissions process with personalized insights and strategies, while StockGPT empowers investors with real-time market analysis and predictive insights. 
 
