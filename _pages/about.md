@@ -43,9 +43,9 @@ In addition to his research, Leo has developed commercial products, including Dr
 - AudioPupil: A Low-cost Embedded Medical Device for Hearing Disorder Screening [BSN 24]- Sen Jiang, **Chuhui Liu**, Ahmet Y. Demirbas, Wei Sun, Wenyao Xu
 
 
-- A Low-cost Embedded Imaging System for Low-limb Vascular Metrics Monitoring, [BSN 2024] - **Chuhui Liu**, Alexander Gherardi, Huining Li, Jun Xia, Wenyao Xu.
+- A Low-cost Embedded Imaging System for Low-limb Vascular Metrics Monitoring, [BSN 24] - **Chuhui Liu**, Alexander Gherardi, Huining Li, Jun Xia, Wenyao Xu.
 
-- BFVM: An NIR Video-Based System for Estimating Blood Flow via Vascular Motions, [BSN 2023] - Tianyu Chen, **Chuhui Liu**, Nathan Wan, Alexander Gherardi, Jun Xia, Zhi-Qiang Zhang, Wenyao Xu.
+- BFVM: An NIR Video-Based System for Estimating Blood Flow via Vascular Motions, [BSN 23] - Tianyu Chen, **Chuhui Liu**, Nathan Wan, Alexander Gherardi, Jun Xia, Zhi-Qiang Zhang, Wenyao Xu.
 
 # 🎖 Honors and Awards
 - *2023.08*: **Honorable Mention** - DFW IT Talent Champion Competition
