@@ -17,40 +17,48 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Chuhui, a Computer Science student at the University at Buffalo, motivated to use my education for meaningful global impact. I've embarked on a research journey under Prof. [Wenyao Xu](https://cse.buffalo.edu/~wenyaoxu/)'s mentorship. This experience challenges me and aligns with my deep interest in using technology to tackle complex, real-world problems. I'm passionate about exploring the intersection of technology and practical applications, aiming to deliver innovative solutions to contemporary challenges. Through this website, I am excited to share my journey with you!
+Hi, I'm Chuhui (Leo) Liu, a Computer Science student at the University at Buffalo, motivated to use my education for meaningful global impact. I’ve embarked on a research journey under Prof. [Wenyao Xu](https://cse.buffalo.edu/~wenyaoxu/)'s mentorship. This experience aligns with my deep interest in using technology to tackle complex, real-world problems. I'm passionate about exploring the intersection of technology and practical applications, aiming to deliver innovative solutions to contemporary challenges. Through this website, I am excited to share my journey with you!
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include Mobile Health (mHealth), neural machine translation, and computer vision. I have published 3 research/poster papers (including 1 first-author paper) in the IEEE Conference on Body Sensor Networks (BSN), and my work focuses on developing cost-effective, accessible health monitoring systems.
 
+<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>Google Scholar</a> <strong><span id='total_cit'>260000+</span></strong> citations.
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 My First personal website is online! &nbsp;🎉🎉
-
+- *2024.02*: &nbsp;🎉🎉 My first personal website is online! &nbsp;🎉🎉
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSN 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[AudioPupil: A Low-cost Embedded Medical Device for Hearing Disorder Screening](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Sen Jiang**, **Chuhui Liu**, Ahmet Y. Demirbas, Wei Sun, Wenyao Xu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [A Low-cost Embedded Imaging System for Low-limb Vascular Metrics Monitoring](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC), **BSN 2024** - Chuhui Liu, Alexander Gherardi, Huining Li, Jun Xia, Wenyao Xu.
+
+- [BFVM: An NIR Video-Based System for Estimating Blood Flow via Vascular Motions](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC), **BSN 2023** - Tianyu Chen, Chuhui Liu, Nathan Wan, Alexander Gherardi, Jun Xia, Zhi-Qiang Zhang, Wenyao Xu.
 
 # 🎖 Honors and Awards
-- *2023.5* Grace W Capen Award
+- *2023.05*: Grace W. Capen Award, University at Buffalo
   - Recipients must have completed a minimum of 45-50 hours of full-time work at UB with a quality point average of 3.9 or higher.
 
-
-
-# 📖 Educations
-- *2021.09 - 2025.05 (now)*, Bachelor of Computer Science, Major in Computer Science; Minor in Statics 
-
+# 📖 Education
+- **Bachelor of Science in Computer Science**, University at Buffalo, SUNY, Sep. 2021 - May 2025 (expected)
+  - **Minor**: Statistics
+  - **GPA**: 3.9/4.0
+  - **Supervisor**: Prof. Wenyao Xu
 
 # 💻 Internships
 - *2023.05 - 2023.08*, [Trust Fund Registry](https://www.linkedin.com/company/trustfundregistry%E2%84%A2/), New York.
+
+# 🌟 Commercial Products
+- **DreamCollege.AI**: An all-in-one platform for educational content creation, offering college recommendations, SAT tutoring, AI-driven essay writing help, and more. [Visit DreamCollege.AI](https://dreamcollege.ai/).
+- **StockGPT (Sold)**: An AI-driven platform for stock market analysis, integrating real-time data and machine learning for informed recommendations. This tool was acquired by a Chinese fund company.
+
+# 👐 Community Service & Outreach
+- **DFW IT Association**: Communications Team member.
