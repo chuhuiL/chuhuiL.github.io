@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chuhui Liu(刘楚晖)"
+title                    : "Chuhui(Leo) Liu"
 description              : ""
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "chuhuiL/chuhuiL.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chuhui Liu (刘楚晖)"
+  name             : "Chuhui(Leo) Liu "
   avatar           : "images/WX20240203-214735@2x.png"
   bio              : "Computer Science and Engineering, University at Buffalo"
   location         : "Buffalo, NY"
@@ -49,7 +49,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : 
   tumblr           :
   twitter          : 
   vine             :
