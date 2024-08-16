@@ -27,20 +27,15 @@ My research interests include Mobile Health (mHealth), neural machine translatio
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSN 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[AudioPupil: A Low-cost Embedded Medical Device for Hearing Disorder Screening]
+- [AudioPupil: A Low-cost Embedded Medical Device for Hearing Disorder Screening]
 
 Sen Jiang, **Chuhui Liu**, Ahmet Y. Demirbas, Wei Sun, Wenyao Xu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-</div>
-</div>
 
-- [A Low-cost Embedded Imaging System for Low-limb Vascular Metrics Monitoring](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC), **BSN 2024** - **Chuhui Liu**, Alexander Gherardi, Huining Li, Jun Xia, Wenyao Xu.
+- [A Low-cost Embedded Imaging System for Low-limb Vascular Metrics Monitoring], **BSN 2024** - **Chuhui Liu**, Alexander Gherardi, Huining Li, Jun Xia, Wenyao Xu.
 
-- [BFVM: An NIR Video-Based System for Estimating Blood Flow via Vascular Motions](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC), **BSN 2023** - Tianyu Chen, **Chuhui Liu**, Nathan Wan, Alexander Gherardi, Jun Xia, Zhi-Qiang Zhang, Wenyao Xu.
+- [BFVM: An NIR Video-Based System for Estimating Blood Flow via Vascular Motions], **BSN 2023** - Tianyu Chen, **Chuhui Liu**, Nathan Wan, Alexander Gherardi, Jun Xia, Zhi-Qiang Zhang, Wenyao Xu.
 
 # 🎖 Honors and Awards
 - *2023.05*: Grace W. Capen Award, University at Buffalo
