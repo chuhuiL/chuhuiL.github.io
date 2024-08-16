@@ -21,7 +21,6 @@ Hi, I'm Chuhui (Leo) Liu, a Computer Science student at the University at Buffal
 
 My research interests include Mobile Health (mHealth), neural machine translation, and computer vision. I have published 3 research/poster papers (including 1 first-author paper) in the IEEE Conference on Body Sensor Networks (BSN), and my work focuses on developing cost-effective, accessible health monitoring systems.
 
-<a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>Google Scholar</a> <strong><span id='total_cit'>260000+</span></strong> citations.
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 My first personal website is online! &nbsp;🎉🎉
@@ -31,17 +30,17 @@ My research interests include Mobile Health (mHealth), neural machine translatio
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">BSN 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AudioPupil: A Low-cost Embedded Medical Device for Hearing Disorder Screening](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[AudioPupil: A Low-cost Embedded Medical Device for Hearing Disorder Screening]
 
-**Sen Jiang**, **Chuhui Liu**, Ahmet Y. Demirbas, Wei Sun, Wenyao Xu
+Sen Jiang, **Chuhui Liu**, Ahmet Y. Demirbas, Wei Sun, Wenyao Xu
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
-- [A Low-cost Embedded Imaging System for Low-limb Vascular Metrics Monitoring](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC), **BSN 2024** - Chuhui Liu, Alexander Gherardi, Huining Li, Jun Xia, Wenyao Xu.
+- [A Low-cost Embedded Imaging System for Low-limb Vascular Metrics Monitoring](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC), **BSN 2024** - **Chuhui Liu**, Alexander Gherardi, Huining Li, Jun Xia, Wenyao Xu.
 
-- [BFVM: An NIR Video-Based System for Estimating Blood Flow via Vascular Motions](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC), **BSN 2023** - Tianyu Chen, Chuhui Liu, Nathan Wan, Alexander Gherardi, Jun Xia, Zhi-Qiang Zhang, Wenyao Xu.
+- [BFVM: An NIR Video-Based System for Estimating Blood Flow via Vascular Motions](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC), **BSN 2023** - Tianyu Chen, **Chuhui Liu**, Nathan Wan, Alexander Gherardi, Jun Xia, Zhi-Qiang Zhang, Wenyao Xu.
 
 # 🎖 Honors and Awards
 - *2023.05*: Grace W. Capen Award, University at Buffalo
