@@ -49,9 +49,27 @@ Xiaoyu Zhang, **Chuhui Liu**, Yanda Cheng, Zhengxiong Li, Chenhan Xu, Chuqin Hua
 </div>
 </div>
 
-- AudioPupil: A Low-cost Embedded Medical Device for Hearing Disorder Screening [BSN 24] - Sen Jiang, **Chuhui Liu**, Ahmet Y. Demirbas, Wei Sun, Wenyao Xu
+<div class='paper-box'><div class='paper-box-text' markdown='1'>
 
-- A Low-cost Embedded Imaging System for Low-limb Vascular Metrics Monitoring, [BSN 24] - **Chuhui Liu**, Alexander Gherardi, Huining Li, Jun Xia, Wenyao Xu.
+**AudioPupil: A Low-cost Embedded Medical Device for Hearing Disorder Screening**
+
+Sen Jiang, **Chuhui Liu**, Ahmet Y. Demirbas, Wei Sun, Wenyao Xu
+
+*IEEE BSN*, 2024 \| [\[Paper\]](https://doi.org/10.1109/BSN63547.2024.10780639)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-text' markdown='1'>
+
+**A Low-cost Embedded Imaging System for Low-limb Vascular Metrics Monitoring**
+
+**Chuhui Liu**, Alexander Gherardi, Huining Li, Jun Xia, Wenyao Xu
+
+*IEEE BSN*, 2024 \| [\[Paper\]](https://doi.org/10.1109/BSN63547.2024.10780688)
+
+</div>
+</div>
 
 - BFVM: An NIR Video-Based System for Estimating Blood Flow via Vascular Motions, [BSN 23] - Tianyu Chen, **Chuhui Liu**, Nathan Wan, Alexander Gherardi, Jun Xia, Zhi-Qiang Zhang, Wenyao Xu.
 
