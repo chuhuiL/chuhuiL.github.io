@@ -40,8 +40,7 @@ I'm eager to connect with like-minded professionals and explore opportunities fo
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/mmwave-survey-fig2.jpg' alt='mmWave Survey' width='100%' style='max-height: 280px; object-fit: contain;'></div></div>
-<div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-text' markdown='1'>
 
 **A Comprehensive Survey of Research Trends in mmWave Technologies for Medical Applications**
 
