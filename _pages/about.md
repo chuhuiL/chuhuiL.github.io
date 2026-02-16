@@ -52,8 +52,7 @@ Xiaoyu Zhang, **Chuhui Liu**, Yanda Cheng, Zhengxiong Li, Chenhan Xu, Chuqin Hua
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/audiopupil-fig.png' alt='AudioPupil' width='100%'></div></div>
-<div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-text' markdown='1'>
 
 **AudioPupil: A Low-cost Embedded Medical Device for Hearing Disorder Screening**
 
@@ -64,8 +63,7 @@ Sen Jiang, **Chuhui Liu**, Ahmet Y. Demirbas, Wei Sun, Wenyao Xu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/bsn2-vascular-fig.png' alt='Low-limb Vascular' width='100%'></div></div>
-<div class='paper-box-text' markdown='1'>
+<div class='paper-box'><div class='paper-box-text' markdown='1'>
 
 **A Low-cost Embedded Imaging System for Low-limb Vascular Metrics Monitoring**
 
