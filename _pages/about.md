@@ -81,7 +81,6 @@ Sen Jiang, **Chuhui Liu**, Ahmet Y. Demirbas, Wei Sun, Wenyao Xu
 - *2025.05*: **Arthur A. Schomburg Fellowship**, University at Buffalo
 - *2025.03*: **Semifinalist** - Panasci Competition 2025 (WoundVision)
 - *2024.08*: **Second Place** - DFW IT Talent Champion Competition 2024
-- *2023.08*: **Honorable Mention** - DFW IT Talent Champion Competition 2023
 - *2023.05*: **Grace W. Capen Award**, University at Buffalo
   - Recipients must have completed a minimum of 45-50 hours of full-time work at UB and must maintain a high academic standing.
 - *2021 - Present*: **Dean's List**, University at Buffalo, Fall 2021 - Present
