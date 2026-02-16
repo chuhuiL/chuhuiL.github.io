@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 😄 About me
 
-Chuhui (Leo) Liu is a Ph.D. student in Computer Science and Engineering at the University at Buffalo, working in the [ESC Lab](https://cse.buffalo.edu/~wenyaoxu/) under the mentorship of Prof. [Wenyao Xu](https://cse.buffalo.edu/~wenyaoxu/). His research focuses on **Mobile Health** (mHealth) and **AI-driven healthcare systems**, including advanced hearing disorder screening using audio-pupil response analysis, real-time vascular health monitoring, and AI-assisted clinical assessment tools. He has published multiple papers at top venues and has been recognized with the **Arthur A. Schomburg Fellowship** and several academic honors.
+Chuhui (Leo) Liu is a Ph.D. student in Computer Science and Engineering at the University at Buffalo, working in the [ESC Lab](https://cse.buffalo.edu/~wenyaoxu/) under the mentorship of Prof. [Wenyao Xu](https://cse.buffalo.edu/~wenyaoxu/). His research focuses on **Mobile Health** (mHealth) and **AI-driven healthcare systems**, including advanced hearing disorder screening using audio-pupil response analysis, real-time vascular health monitoring, and AI-assisted clinical assessment tools.
 
 In addition to his research, Leo has successfully developed and commercialized two innovative AI products: DreamCollege.AI and StockGPT. DreamCollege.AI leverages large language models to guide students through the college admissions process with personalized insights and strategies, while StockGPT empowers investors with real-time market analysis and predictive insights.
 
