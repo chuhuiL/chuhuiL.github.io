@@ -28,9 +28,12 @@ I'm eager to connect with like-minded professionals and explore opportunities fo
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 Survey paper on mmWave medical sensing published in **Sensors**! &nbsp;🎉🎉
+- *2026.02*: &nbsp;🏆 **JointSpace** selected as Semifinalist in the **Panasci Competition 2026**! &nbsp;🏆
 - *2025.08*: &nbsp;🎉🎉 Started Ph.D. in CSE at the University at Buffalo, ESC Lab! &nbsp;🎉🎉
+- *2025.06*: &nbsp;🎉🎉 Survey paper on mmWave medical sensing published in **Sensors**! &nbsp;🎉🎉
 - *2025.05*: &nbsp;🏆 Awarded the **Arthur A. Schomburg Fellowship**! &nbsp;🏆
+- *2025.03*: &nbsp;🏆 **WoundVision** selected as Semifinalist in the **Panasci Competition 2025**! &nbsp;🏆
+- *2024.08*: &nbsp;🏆 **Second Place** at the **DFW IT Talent Champion Competition 2024**! &nbsp;🏆
 - *2024.07*: &nbsp;🎉🎉 My paper has been accepted to the IEEE Conference on Body Sensor Networks (BSN) 2024! &nbsp;🎉🎉
 - *2024.06*: &nbsp;🚀 DreamCollege.AI is now live! Check out the platform [here](https://dreamcollege.ai/). &nbsp;🚀
 - *2024.02*: &nbsp;🎉🎉 My first personal website is online! &nbsp;🎉🎉
@@ -74,8 +77,11 @@ Sen Jiang, **Chuhui Liu**, Ahmet Y. Demirbas, Wei Sun, Wenyao Xu
 - BFVM: An NIR Video-Based System for Estimating Blood Flow via Vascular Motions, [BSN 23] - Tianyu Chen, **Chuhui Liu**, Nathan Wan, Alexander Gherardi, Jun Xia, Zhi-Qiang Zhang, Wenyao Xu.
 
 # 🎖 Honors and Awards
+- *2026.02*: **Semifinalist** - Panasci Competition 2026 (JointSpace)
 - *2025.05*: **Arthur A. Schomburg Fellowship**, University at Buffalo
-- *2023.08*: **Honorable Mention** - DFW IT Talent Champion Competition
+- *2025.03*: **Semifinalist** - Panasci Competition 2025 (WoundVision)
+- *2024.08*: **Second Place** - DFW IT Talent Champion Competition 2024
+- *2023.08*: **Honorable Mention** - DFW IT Talent Champion Competition 2023
 - *2023.05*: **Grace W. Capen Award**, University at Buffalo
   - Recipients must have completed a minimum of 45-50 hours of full-time work at UB and must maintain a high academic standing.
 - *2021 - Present*: **Dean's List**, University at Buffalo, Fall 2021 - Present
